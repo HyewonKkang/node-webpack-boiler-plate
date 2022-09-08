@@ -1,0 +1,18 @@
+@import 'reset.css';
+
+:root {
+  --white: #ffffff;
+  --grey-6: #f5f5f7;
+  --grey-5: #e0e0e0;
+  --grey-4: #bdbdbd;
+  --grey-3: #828282;
+  --grey-2: #4f4f4f;
+  --grey-1: #333333;
+  --black: #010101;
+  --primary: #e84c60;
+  --secondary: #118917;
+}
+
+body {
+  font-family: 'Noto Sans KR', sans-serif;
+}
